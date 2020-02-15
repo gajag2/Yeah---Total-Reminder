@@ -12,7 +12,7 @@ By downloading, installing or using the app, you signify your assent to this Pri
 
 Information Collected:
 
-(Local Device Use Only). You can use our App locally on your device generally without providing any Personal Information to us. The App enables you to create a list of your Calendar and Reminder entries by importing information from your Calendar and Reminder with related data that are stored on your local device into the App, but this convenience features occurs on your device and does not automatically transmit any Personal Information or other data to us nor provide us with access to it.
+(Local Device Use Only). You can use our App locally on your device generally without providing any Personal Information to us. App enables you to create a list of your Calendar and Reminder entries by importing information from your Calendar and Reminder with related data that are stored on your local device into the App, but this convenience features occurs on your device and does not automatically transmit any Personal Information or other data to us nor provide us with access to it.
 
 Data Security:
 
